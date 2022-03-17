@@ -1,0 +1,14 @@
+.container{
+    margin-top: auto;
+    background-color: rgb(153, 224, 215);
+}
+.experience{
+    width: 400px;
+}
+.description{
+    color: rgb(0, 0, 0);
+    border-bottom-style:groove;
+    outline: 0;
+    border-width: 0 0 0;
+    border-color: rgb(255, 255, 255)
+}

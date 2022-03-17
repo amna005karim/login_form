@@ -1,0 +1,21 @@
+.carousel-inner{
+      height: 590px;
+}
+.name{
+    height: 200px;
+}
+.container{
+    margin-top: 200px;
+}
+.card-parent{
+    justify-content:  space-around;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card{
+    margin: 9px;
+}
+.heading{
+    text-align: center;
+}
